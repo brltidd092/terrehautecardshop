@@ -314,3 +314,13 @@ li, p {
 	outline: none;
 	position: relative;
 }
+#btn{
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: 110px;
+	height: 100%;
+	backgroung: linear-gradient(to right, #ff105f,#ffad06);
+	border-radius: 30px;
+	transition: 5s;
+}
